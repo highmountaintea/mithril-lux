@@ -1,0 +1,19 @@
+{
+  "name": "mithril-lux",
+  "version": "0.1.0",
+  "description": "mithril UI library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highmountaintea/mithril-lux.git"
+  },
+  "author": "highmountaintea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/highmountaintea/mithril-lux/issues"
+  },
+  "homepage": "https://github.com/highmountaintea/mithril-lux#readme"
+}
